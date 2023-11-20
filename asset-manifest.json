@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/minchichi/git/static/css/main.d09b3be6.css",
+    "main.js": "/minchichi/git/static/js/main.d388e503.js",
+    "static/js/787.774594b4.chunk.js": "/minchichi/git/static/js/787.774594b4.chunk.js",
+    "index.html": "/minchichi/git/index.html",
+    "main.d09b3be6.css.map": "/minchichi/git/static/css/main.d09b3be6.css.map",
+    "main.d388e503.js.map": "/minchichi/git/static/js/main.d388e503.js.map",
+    "787.774594b4.chunk.js.map": "/minchichi/git/static/js/787.774594b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d09b3be6.css",
+    "static/js/main.d388e503.js"
+  ]
+}
